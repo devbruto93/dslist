@@ -63,6 +63,4 @@ Maven
 
 Meus sinceros agradecimentos ao professor e doutor Nélio Alves pela iniciativa, dedicação e qualidade no ensino. Mesmo em apenas 5 aulas, a experiência foi transformadora.
 
-👤 Autor
-Douglas Modesto Eugênio
 www.linkedin.com/in/douglasmodesto93
